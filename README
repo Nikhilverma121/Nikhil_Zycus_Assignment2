@@ -1,10 +1,10 @@
 This script take three parameter from user like command,username and Key
 
-1) which command you want to run on multiple servers.
+1) which command you want to run on multiple remote servers.
 
 2) From which user you want to run this command.
 
-3) It will ask for Key or Key path for ssh connection.
+3) It will ask for the Key.pem file or Key path for ssh connection.
 
 4) Host will check the hostname file and truncate the hostname where it finds(,) to the (\n)
 
